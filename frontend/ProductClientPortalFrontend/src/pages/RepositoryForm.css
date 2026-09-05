@@ -1,0 +1,125 @@
+.repository-form-page {
+    padding: 30px;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.repository-form-header {
+    margin-bottom: 25px;
+}
+
+.repository-form-header h1 {
+    margin: 0 0 8px;
+    font-size: 28px;
+    color: #222;
+}
+
+.repository-form-header p {
+    margin: 0;
+    color: #666;
+}
+
+.repository-form {
+    background: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
+}
+
+.repository-form .form-group {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+
+.repository-form .form-group-full {
+    width: 100%;
+}
+
+.repository-form label {
+    margin-bottom: 8px;
+    font-size: 14px;
+    font-weight: 600;
+    color: #333;
+}
+
+.repository-form input,
+.repository-form textarea {
+    width: 100%;
+    padding: 11px 12px;
+    border: 1px solid #d5d5d5;
+    border-radius: 6px;
+    font-size: 14px;
+    font-family: inherit;
+    box-sizing: border-box;
+}
+
+.repository-form input:focus,
+.repository-form textarea:focus {
+    outline: none;
+    border-color: #007bff;
+}
+
+.repository-form textarea {
+    resize: vertical;
+}
+
+.repository-form-error {
+    margin-bottom: 20px;
+    padding: 12px 15px;
+    border-radius: 6px;
+    background: #f8d7da;
+    color: #842029;
+    border: 1px solid #f5c2c7;
+}
+
+.repository-form-actions {
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+    margin-top: 25px;
+}
+
+.repository-form-actions button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 6px;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.repository-form-cancel {
+    background: #e9ecef;
+    color: #333;
+}
+
+.repository-form-cancel:hover {
+    background: #dfe2e5;
+}
+
+.repository-form-submit {
+    background: #007bff;
+    color: white;
+}
+
+.repository-form-submit:hover {
+    background: #0069d9;
+}
+
+@media (max-width: 768px) {
+    .repository-form-page {
+        padding: 20px;
+    }
+
+    .repository-form {
+        padding: 20px;
+    }
+
+    .repository-form-actions {
+        flex-direction: column;
+    }
+
+    .repository-form-actions button {
+        width: 100%;
+    }
+}

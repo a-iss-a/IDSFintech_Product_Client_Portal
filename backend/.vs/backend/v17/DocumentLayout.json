@@ -1,0 +1,1222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|c:\\users\\admin\\desktop\\intr\\product_clients_portal\\backend\\backend\\controllers\\deploymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|solutionrelative:backend\\controllers\\deploymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|c:\\users\\admin\\desktop\\intr\\product_clients_portal\\backend\\backend\\models\\deployment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|solutionrelative:backend\\models\\deployment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|c:\\users\\admin\\desktop\\intr\\product_clients_portal\\backend\\backend\\models\\deploymentenvironment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|solutionrelative:backend\\models\\deploymentenvironment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|c:\\users\\admin\\desktop\\intr\\product_clients_portal\\backend\\backend\\services\\documentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|solutionrelative:backend\\services\\documentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|c:\\users\\admin\\desktop\\intr\\product_clients_portal\\backend\\backend\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|solutionrelative:backend\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|c:\\users\\admin\\desktop\\intr\\product_clients_portal\\backend\\backend\\repositories\\codereporepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|solutionrelative:backend\\repositories\\codereporepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|c:\\users\\admin\\desktop\\intr\\product_clients_portal\\backend\\backend\\models\\coderepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|solutionrelative:backend\\models\\coderepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|c:\\users\\admin\\desktop\\intr\\product_clients_portal\\backend\\backend\\repositories\\modulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|solutionrelative:backend\\repositories\\modulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|c:\\users\\admin\\desktop\\intr\\product_clients_portal\\backend\\backend\\services\\moduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|solutionrelative:backend\\services\\moduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|c:\\users\\admin\\desktop\\intr\\product_clients_portal\\backend\\backend\\controllers\\modulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|solutionrelative:backend\\controllers\\modulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|c:\\users\\admin\\desktop\\intr\\product_clients_portal\\backend\\backend\\models\\module.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|solutionrelative:backend\\models\\module.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|c:\\users\\admin\\desktop\\intr\\product_clients_portal\\backend\\backend\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|solutionrelative:backend\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|c:\\users\\admin\\desktop\\intr\\product_clients_portal\\backend\\backend\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|solutionrelative:backend\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|c:\\users\\admin\\desktop\\intr\\product_clients_portal\\backend\\backend\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|solutionrelative:backend\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|c:\\users\\admin\\desktop\\intr\\product_clients_portal\\backend\\backend\\controllers\\productresponsibilitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|solutionrelative:backend\\controllers\\productresponsibilitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|c:\\users\\admin\\desktop\\intr\\product_clients_portal\\backend\\backend\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|solutionrelative:backend\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|c:\\users\\admin\\desktop\\intr\\product_clients_portal\\backend\\backend\\controllers\\documentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|solutionrelative:backend\\controllers\\documentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|c:\\users\\admin\\desktop\\intr\\product_clients_portal\\backend\\backend\\controllers\\coderepocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|solutionrelative:backend\\controllers\\coderepocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|c:\\users\\admin\\desktop\\intr\\product_clients_portal\\backend\\backend\\services\\authentication\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|solutionrelative:backend\\services\\authentication\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|c:\\users\\admin\\desktop\\intr\\product_clients_portal\\backend\\backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|solutionrelative:backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|c:\\users\\admin\\desktop\\intr\\product_clients_portal\\backend\\backend\\models\\teammember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|solutionrelative:backend\\models\\teammember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|c:\\users\\admin\\desktop\\intr\\product_clients_portal\\backend\\backend\\models\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|solutionrelative:backend\\models\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|c:\\users\\admin\\desktop\\intr\\product_clients_portal\\backend\\backend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|solutionrelative:backend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|c:\\users\\admin\\desktop\\intr\\product_clients_portal\\backend\\backend\\controllers\\deploymentenvironmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|solutionrelative:backend\\controllers\\deploymentenvironmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|c:\\users\\admin\\desktop\\intr\\product_clients_portal\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|c:\\users\\admin\\desktop\\intr\\product_clients_portal\\backend\\backend\\services\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|solutionrelative:backend\\services\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|c:\\users\\admin\\desktop\\intr\\product_clients_portal\\backend\\backend\\services\\icodereposervice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|solutionrelative:backend\\services\\icodereposervice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|c:\\users\\admin\\desktop\\intr\\product_clients_portal\\backend\\backend\\repositories\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|solutionrelative:backend\\repositories\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|c:\\users\\admin\\desktop\\intr\\product_clients_portal\\backend\\backend\\repositories\\icodereporepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|solutionrelative:backend\\repositories\\icodereporepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|c:\\users\\admin\\desktop\\intr\\product_clients_portal\\backend\\backend\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|solutionrelative:backend\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|c:\\users\\admin\\desktop\\intr\\product_clients_portal\\backend\\backend\\services\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|solutionrelative:backend\\services\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|c:\\users\\admin\\desktop\\intr\\product_clients_portal\\backend\\backend\\controllers\\teammembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|solutionrelative:backend\\controllers\\teammembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|c:\\users\\admin\\desktop\\intr\\product_clients_portal\\backend\\backend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|solutionrelative:backend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|c:\\users\\admin\\desktop\\intr\\product_clients_portal\\backend\\backend\\services\\idocumentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|solutionrelative:backend\\services\\idocumentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|c:\\users\\admin\\desktop\\intr\\product_clients_portal\\backend\\backend\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|solutionrelative:backend\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|c:\\users\\admin\\desktop\\intr\\product_clients_portal\\backend\\backend\\services\\ideploymentenvironmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|solutionrelative:backend\\services\\ideploymentenvironmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|c:\\users\\admin\\desktop\\intr\\product_clients_portal\\backend\\backend\\services\\ideploymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|solutionrelative:backend\\services\\ideploymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|c:\\users\\admin\\desktop\\intr\\product_clients_portal\\backend\\backend\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|solutionrelative:backend\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|c:\\users\\admin\\desktop\\intr\\product_clients_portal\\backend\\backend\\repositories\\productresponsibilityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|solutionrelative:backend\\repositories\\productresponsibilityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|c:\\users\\admin\\desktop\\intr\\product_clients_portal\\backend\\backend\\services\\imoduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|solutionrelative:backend\\services\\imoduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|c:\\users\\admin\\desktop\\intr\\product_clients_portal\\backend\\backend\\services\\productresponsibilityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|solutionrelative:backend\\services\\productresponsibilityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|c:\\users\\admin\\desktop\\intr\\product_clients_portal\\backend\\backend\\models\\productresponsibility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|solutionrelative:backend\\models\\productresponsibility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|c:\\users\\admin\\desktop\\intr\\product_clients_portal\\backend\\backend\\services\\iproductresponsibilityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|solutionrelative:backend\\services\\iproductresponsibilityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|c:\\users\\admin\\desktop\\intr\\product_clients_portal\\backend\\backend\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|solutionrelative:backend\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|c:\\users\\admin\\desktop\\intr\\product_clients_portal\\backend\\backend\\services\\iteammemberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|solutionrelative:backend\\services\\iteammemberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|c:\\users\\admin\\desktop\\intr\\product_clients_portal\\backend\\backend\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|solutionrelative:backend\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|c:\\users\\admin\\desktop\\intr\\product_clients_portal\\backend\\backend\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|solutionrelative:backend\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|c:\\users\\admin\\desktop\\intr\\product_clients_portal\\backend\\backend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|solutionrelative:backend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|c:\\users\\admin\\desktop\\intr\\product_clients_portal\\backend\\backend\\services\\codereposervice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|solutionrelative:backend\\services\\codereposervice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|c:\\users\\admin\\desktop\\intr\\product_clients_portal\\backend\\backend\\services\\authentication\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|solutionrelative:backend\\services\\authentication\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|c:\\users\\admin\\desktop\\intr\\product_clients_portal\\backend\\backend\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|solutionrelative:backend\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|c:\\users\\admin\\desktop\\intr\\product_clients_portal\\backend\\backend\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|solutionrelative:backend\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|c:\\users\\admin\\desktop\\intr\\product_clients_portal\\backend\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|c:\\users\\admin\\desktop\\intr\\product_clients_portal\\backend\\backend\\services\\deploymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|solutionrelative:backend\\services\\deploymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|c:\\users\\admin\\desktop\\intr\\product_clients_portal\\backend\\backend\\repositories\\idocumentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|solutionrelative:backend\\repositories\\idocumentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|c:\\users\\admin\\desktop\\intr\\product_clients_portal\\backend\\backend\\repositories\\imodulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|solutionrelative:backend\\repositories\\imodulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|c:\\users\\admin\\desktop\\intr\\product_clients_portal\\backend\\backend\\repositories\\iproductresponsibilityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|solutionrelative:backend\\repositories\\iproductresponsibilityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|c:\\users\\admin\\desktop\\intr\\product_clients_portal\\backend\\backend\\services\\teammemberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|solutionrelative:backend\\services\\teammemberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|c:\\users\\admin\\desktop\\intr\\product_clients_portal\\backend\\backend\\repositories\\iteammemberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|solutionrelative:backend\\repositories\\iteammemberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|c:\\users\\admin\\desktop\\intr\\product_clients_portal\\backend\\backend\\repositories\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|solutionrelative:backend\\repositories\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|c:\\users\\admin\\desktop\\intr\\product_clients_portal\\backend\\backend\\services\\deploymentenvironmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|solutionrelative:backend\\services\\deploymentenvironmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|c:\\users\\admin\\desktop\\intr\\product_clients_portal\\backend\\backend\\repositories\\ideploymentenvironmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|solutionrelative:backend\\repositories\\ideploymentenvironmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|c:\\users\\admin\\desktop\\intr\\product_clients_portal\\backend\\backend\\repositories\\ideploymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|solutionrelative:backend\\repositories\\ideploymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|c:\\users\\admin\\desktop\\intr\\product_clients_portal\\backend\\backend\\repositories\\documentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|solutionrelative:backend\\repositories\\documentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|c:\\users\\admin\\desktop\\intr\\product_clients_portal\\backend\\backend\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|solutionrelative:backend\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|c:\\users\\admin\\desktop\\intr\\product_clients_portal\\backend\\backend\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|solutionrelative:backend\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|c:\\users\\admin\\desktop\\intr\\product_clients_portal\\backend\\backend\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|solutionrelative:backend\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|c:\\users\\admin\\desktop\\intr\\product_clients_portal\\backend\\backend\\repositories\\teammemberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|solutionrelative:backend\\repositories\\teammemberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|c:\\users\\admin\\desktop\\intr\\product_clients_portal\\backend\\backend\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|solutionrelative:backend\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|c:\\users\\admin\\desktop\\intr\\product_clients_portal\\backend\\backend\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|solutionrelative:backend\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|c:\\users\\admin\\desktop\\intr\\product_clients_portal\\backend\\backend\\repositories\\deploymentenvironmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|solutionrelative:backend\\repositories\\deploymentenvironmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|c:\\users\\admin\\desktop\\intr\\product_clients_portal\\backend\\backend\\repositories\\deploymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|solutionrelative:backend\\repositories\\deploymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|c:\\users\\admin\\desktop\\intr\\product_clients_portal\\backend\\backend\\data\\dbconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|solutionrelative:backend\\data\\dbconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|c:\\users\\admin\\desktop\\intr\\product_clients_portal\\backend\\backend\\backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|solutionrelative:backend\\backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|c:\\users\\admin\\desktop\\intr\\product_clients_portal\\backend\\backend\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0500198-3DCF-4DD3-8B3B-DB66FEAF7B98}|backend\\backend.csproj|solutionrelative:backend\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CodeRepoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Repositories\\CodeRepoRepository.cs",
+              "RelativeDocumentMoniker": "backend\\Repositories\\CodeRepoRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Repositories\\CodeRepoRepository.cs",
+              "RelativeToolTip": "backend\\Repositories\\CodeRepoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T13:16:59.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CodeRepo.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Models\\CodeRepo.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\CodeRepo.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Models\\CodeRepo.cs",
+              "RelativeToolTip": "backend\\Models\\CodeRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T09:39:21.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DocumentService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Services\\DocumentService.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\DocumentService.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Services\\DocumentService.cs",
+              "RelativeToolTip": "backend\\Services\\DocumentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T10:11:00.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeploymentEnvironment.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Models\\DeploymentEnvironment.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\DeploymentEnvironment.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Models\\DeploymentEnvironment.cs",
+              "RelativeToolTip": "backend\\Models\\DeploymentEnvironment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T10:05:54.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Deployment.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Models\\Deployment.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\Deployment.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Models\\Deployment.cs",
+              "RelativeToolTip": "backend\\Models\\Deployment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T22:17:17.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DeploymentController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Controllers\\DeploymentController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\DeploymentController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Controllers\\DeploymentController.cs",
+              "RelativeToolTip": "backend\\Controllers\\DeploymentController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAACkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T12:24:04.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Services\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\DepartmentService.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Services\\DepartmentService.cs",
+              "RelativeToolTip": "backend\\Services\\DepartmentService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABcAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T09:40:10.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ModuleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Repositories\\ModuleRepository.cs",
+              "RelativeDocumentMoniker": "backend\\Repositories\\ModuleRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Repositories\\ModuleRepository.cs",
+              "RelativeToolTip": "backend\\Repositories\\ModuleRepository.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAkwDAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T12:50:08.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ModuleService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Services\\ModuleService.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\ModuleService.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Services\\ModuleService.cs",
+              "RelativeToolTip": "backend\\Services\\ModuleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T09:58:25.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Module.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Models\\Module.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\Module.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Models\\Module.cs",
+              "RelativeToolTip": "backend\\Models\\Module.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T21:50:31.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ModuleController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Controllers\\ModuleController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\ModuleController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Controllers\\ModuleController.cs",
+              "RelativeToolTip": "backend\\Controllers\\ModuleController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAkwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T09:05:36.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClientService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Services\\ClientService.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\ClientService.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Services\\ClientService.cs",
+              "RelativeToolTip": "backend\\Services\\ClientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T09:17:54.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\ClientController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "backend\\Controllers\\ClientController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T13:07:11.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "backend\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "backend\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T21:15:13.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductResponsibilityController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Controllers\\ProductResponsibilityController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\ProductResponsibilityController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Controllers\\ProductResponsibilityController.cs",
+              "RelativeToolTip": "backend\\Controllers\\ProductResponsibilityController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAAEAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T08:44:01.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "backend\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAmwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T22:46:47.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DocumentController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Controllers\\DocumentController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\DocumentController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Controllers\\DocumentController.cs",
+              "RelativeToolTip": "backend\\Controllers\\DocumentController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAmwHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T11:53:57.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CodeRepoController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Controllers\\CodeRepoController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\CodeRepoController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Controllers\\CodeRepoController.cs",
+              "RelativeToolTip": "backend\\Controllers\\CodeRepoController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T12:57:52.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Services\\Authentication\\AuthService.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\Authentication\\AuthService.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Services\\Authentication\\AuthService.cs",
+              "RelativeToolTip": "backend\\Services\\Authentication\\AuthService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABgAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T13:04:26.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IDepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Services\\IDepartmentService.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\IDepartmentService.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Services\\IDepartmentService.cs",
+              "RelativeToolTip": "backend\\Services\\IDepartmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T09:37:54.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Program.cs",
+              "RelativeDocumentMoniker": "backend\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Program.cs",
+              "RelativeToolTip": "backend\\Program.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAkwFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T14:29:00.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Document.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Models\\Document.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\Document.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Models\\Document.cs",
+              "RelativeToolTip": "backend\\Models\\Document.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T09:45:58.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TeamMember.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Models\\TeamMember.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\TeamMember.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Models\\TeamMember.cs",
+              "RelativeToolTip": "backend\\Models\\TeamMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T22:23:38.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Models\\User.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Models\\User.cs",
+              "RelativeToolTip": "backend\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T21:38:17.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Controllers\\UserController.cs",
+              "RelativeToolTip": "backend\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T10:34:38.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DeploymentEnvironmentController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Controllers\\DeploymentEnvironmentController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\DeploymentEnvironmentController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Controllers\\DeploymentEnvironmentController.cs",
+              "RelativeToolTip": "backend\\Controllers\\DeploymentEnvironmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T12:40:14.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ICodeRepoService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Services\\ICodeRepoService.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\ICodeRepoService.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Services\\ICodeRepoService.cs",
+              "RelativeToolTip": "backend\\Services\\ICodeRepoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T10:03:54.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IClientService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Services\\IClientService.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\IClientService.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Services\\IClientService.cs",
+              "RelativeToolTip": "backend\\Services\\IClientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T09:17:34.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ICodeRepoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Repositories\\ICodeRepoRepository.cs",
+              "RelativeDocumentMoniker": "backend\\Repositories\\ICodeRepoRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Repositories\\ICodeRepoRepository.cs",
+              "RelativeToolTip": "backend\\Repositories\\ICodeRepoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T13:17:15.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "backend\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAADIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T12:49:13.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IClientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Repositories\\IClientRepository.cs",
+              "RelativeDocumentMoniker": "backend\\Repositories\\IClientRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Repositories\\IClientRepository.cs",
+              "RelativeToolTip": "backend\\Repositories\\IClientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T21:48:45.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "TeamMemberController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Controllers\\TeamMemberController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\TeamMemberController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Controllers\\TeamMemberController.cs",
+              "RelativeToolTip": "backend\\Controllers\\TeamMemberController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAkwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T22:30:28.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "backend\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwBQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T14:19:49.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IDocumentService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Services\\IDocumentService.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\IDocumentService.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Services\\IDocumentService.cs",
+              "RelativeToolTip": "backend\\Services\\IDocumentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T10:10:34.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Models\\Department.cs",
+              "RelativeToolTip": "backend\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T22:22:43.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IDeploymentEnvironmentService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Services\\IDeploymentEnvironmentService.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\IDeploymentEnvironmentService.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Services\\IDeploymentEnvironmentService.cs",
+              "RelativeToolTip": "backend\\Services\\IDeploymentEnvironmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T09:31:58.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IDeploymentService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Services\\IDeploymentService.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\IDeploymentService.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Services\\IDeploymentService.cs",
+              "RelativeToolTip": "backend\\Services\\IDeploymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T09:23:37.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Services\\ProductService.cs",
+              "RelativeToolTip": "backend\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA+wBcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T09:05:43.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ProductResponsibilityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Repositories\\ProductResponsibilityRepository.cs",
+              "RelativeDocumentMoniker": "backend\\Repositories\\ProductResponsibilityRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Repositories\\ProductResponsibilityRepository.cs",
+              "RelativeToolTip": "backend\\Repositories\\ProductResponsibilityRepository.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAUwCcAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T10:10:55.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IModuleService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Services\\IModuleService.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\IModuleService.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Services\\IModuleService.cs",
+              "RelativeToolTip": "backend\\Services\\IModuleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T09:58:03.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ProductResponsibilityService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Services\\ProductResponsibilityService.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\ProductResponsibilityService.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Services\\ProductResponsibilityService.cs",
+              "RelativeToolTip": "backend\\Services\\ProductResponsibilityService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAACeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T09:49:35.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IProductResponsibilityService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Services\\IProductResponsibilityService.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\IProductResponsibilityService.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Services\\IProductResponsibilityService.cs",
+              "RelativeToolTip": "backend\\Services\\IProductResponsibilityService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T09:49:50.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\IProductService.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Services\\IProductService.cs",
+              "RelativeToolTip": "backend\\Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T09:05:29.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ITeamMemberService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Services\\ITeamMemberService.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\ITeamMemberService.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Services\\ITeamMemberService.cs",
+              "RelativeToolTip": "backend\\Services\\ITeamMemberService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T09:44:24.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ProductResponsibility.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Models\\ProductResponsibility.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\ProductResponsibility.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Models\\ProductResponsibility.cs",
+              "RelativeToolTip": "backend\\Models\\ProductResponsibility.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T09:29:18.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Services\\IUserService.cs",
+              "RelativeToolTip": "backend\\Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T08:31:02.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Models\\Product.cs",
+              "RelativeToolTip": "backend\\Models\\Product.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T21:47:12.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "backend\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T14:29:38.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CodeRepoService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Services\\CodeRepoService.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\CodeRepoService.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Services\\CodeRepoService.cs",
+              "RelativeToolTip": "backend\\Services\\CodeRepoService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T10:04:23.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Services\\UserService.cs",
+              "RelativeToolTip": "backend\\Services\\UserService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T08:31:28.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Services\\Authentication\\IAuthService.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\Authentication\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Services\\Authentication\\IAuthService.cs",
+              "RelativeToolTip": "backend\\Services\\Authentication\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T13:04:07.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "backend\\Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T13:26:32.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "IDocumentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Repositories\\IDocumentRepository.cs",
+              "RelativeDocumentMoniker": "backend\\Repositories\\IDocumentRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Repositories\\IDocumentRepository.cs",
+              "RelativeToolTip": "backend\\Repositories\\IDocumentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T13:48:22.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\appsettings.json",
+              "RelativeDocumentMoniker": "backend\\appsettings.json",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\appsettings.json",
+              "RelativeToolTip": "backend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-22T10:41:21.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "DeploymentService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Services\\DeploymentService.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\DeploymentService.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Services\\DeploymentService.cs",
+              "RelativeToolTip": "backend\\Services\\DeploymentService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T09:24:07.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "IModuleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Repositories\\IModuleRepository.cs",
+              "RelativeDocumentMoniker": "backend\\Repositories\\IModuleRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Repositories\\IModuleRepository.cs",
+              "RelativeToolTip": "backend\\Repositories\\IModuleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T12:47:49.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "TeamMemberService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Services\\TeamMemberService.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\TeamMemberService.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Services\\TeamMemberService.cs",
+              "RelativeToolTip": "backend\\Services\\TeamMemberService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwBoAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T09:44:45.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "IProductResponsibilityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Repositories\\IProductResponsibilityRepository.cs",
+              "RelativeDocumentMoniker": "backend\\Repositories\\IProductResponsibilityRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Repositories\\IProductResponsibilityRepository.cs",
+              "RelativeToolTip": "backend\\Repositories\\IProductResponsibilityRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T10:11:10.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "DeploymentEnvironmentService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Services\\DeploymentEnvironmentService.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\DeploymentEnvironmentService.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Services\\DeploymentEnvironmentService.cs",
+              "RelativeToolTip": "backend\\Services\\DeploymentEnvironmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T09:32:20.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "IDepartmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Repositories\\IDepartmentRepository.cs",
+              "RelativeDocumentMoniker": "backend\\Repositories\\IDepartmentRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Repositories\\IDepartmentRepository.cs",
+              "RelativeToolTip": "backend\\Repositories\\IDepartmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T09:15:31.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ITeamMemberRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Repositories\\ITeamMemberRepository.cs",
+              "RelativeDocumentMoniker": "backend\\Repositories\\ITeamMemberRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Repositories\\ITeamMemberRepository.cs",
+              "RelativeToolTip": "backend\\Repositories\\ITeamMemberRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T09:29:08.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "IDeploymentEnvironmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Repositories\\IDeploymentEnvironmentRepository.cs",
+              "RelativeDocumentMoniker": "backend\\Repositories\\IDeploymentEnvironmentRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Repositories\\IDeploymentEnvironmentRepository.cs",
+              "RelativeToolTip": "backend\\Repositories\\IDeploymentEnvironmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T08:32:12.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "DocumentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Repositories\\DocumentRepository.cs",
+              "RelativeDocumentMoniker": "backend\\Repositories\\DocumentRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Repositories\\DocumentRepository.cs",
+              "RelativeToolTip": "backend\\Repositories\\DocumentRepository.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAIBQwDgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T13:48:37.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "IDeploymentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Repositories\\IDeploymentRepository.cs",
+              "RelativeDocumentMoniker": "backend\\Repositories\\IDeploymentRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Repositories\\IDeploymentRepository.cs",
+              "RelativeToolTip": "backend\\Repositories\\IDeploymentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T08:00:43.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "backend\\Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "backend\\Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T21:14:47.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "backend\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "backend\\Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T12:52:23.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "backend\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "backend\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T12:52:39.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "TeamMemberRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Repositories\\TeamMemberRepository.cs",
+              "RelativeDocumentMoniker": "backend\\Repositories\\TeamMemberRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Repositories\\TeamMemberRepository.cs",
+              "RelativeToolTip": "backend\\Repositories\\TeamMemberRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T09:29:26.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "DepartmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Repositories\\DepartmentRepository.cs",
+              "RelativeDocumentMoniker": "backend\\Repositories\\DepartmentRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Repositories\\DepartmentRepository.cs",
+              "RelativeToolTip": "backend\\Repositories\\DepartmentRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAIBQwCgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T09:15:14.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "DeploymentEnvironmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Repositories\\DeploymentEnvironmentRepository.cs",
+              "RelativeDocumentMoniker": "backend\\Repositories\\DeploymentEnvironmentRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Repositories\\DeploymentEnvironmentRepository.cs",
+              "RelativeToolTip": "backend\\Repositories\\DeploymentEnvironmentRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwDUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T08:32:02.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "ClientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Repositories\\ClientRepository.cs",
+              "RelativeDocumentMoniker": "backend\\Repositories\\ClientRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Repositories\\ClientRepository.cs",
+              "RelativeToolTip": "backend\\Repositories\\ClientRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA+wBIAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T21:49:08.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "DeploymentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Repositories\\DeploymentRepository.cs",
+              "RelativeDocumentMoniker": "backend\\Repositories\\DeploymentRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Repositories\\DeploymentRepository.cs",
+              "RelativeToolTip": "backend\\Repositories\\DeploymentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-23T08:00:18.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "DbConnectionFactory.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Data\\DbConnectionFactory.cs",
+              "RelativeDocumentMoniker": "backend\\Data\\DbConnectionFactory.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Data\\DbConnectionFactory.cs",
+              "RelativeToolTip": "backend\\Data\\DbConnectionFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T13:12:59.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "backend.csproj",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\backend.csproj",
+              "RelativeDocumentMoniker": "backend\\backend.csproj",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\backend.csproj",
+              "RelativeToolTip": "backend\\backend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-22T10:40:33.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\intr\\Product_Clients_Portal\\backend\\backend\\Models\\Client.cs",
+              "RelativeToolTip": "backend\\Models\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T21:52:21.336Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

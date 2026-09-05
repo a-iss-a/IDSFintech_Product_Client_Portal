@@ -1,0 +1,138 @@
+.dashboard {
+    padding: 24px;
+}
+
+.dashboard-header {
+    margin-bottom: 24px;
+}
+
+.dashboard-header h1 {
+    margin: 0;
+    font-size: 28px;
+}
+
+.dashboard-header p {
+    margin-top: 6px;
+    color: #6c757d;
+}
+
+.dashboard-stats {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 16px;
+    margin-bottom: 32px;
+}
+
+.stat-card {
+    background: white;
+    border: 1px solid #e5e7eb;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+}
+
+.stat-card h3 {
+    margin: 0;
+    font-size: 15px;
+    color: #6c757d;
+    font-weight: 500;
+}
+
+.stat-card p {
+    margin: 12px 0 0;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.dashboard-section {
+    background: white;
+    border: 1px solid #e5e7eb;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 24px;
+}
+
+.dashboard-section h2 {
+    margin: 0 0 20px;
+    font-size: 20px;
+}
+
+.empty-state {
+    padding: 30px;
+    text-align: center;
+    color: #6c757d;
+    background: #f8f9fa;
+    border-radius: 6px;
+}
+
+.quick-navigation {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 16px;
+}
+
+.quick-navigation a {
+    padding: 14px;
+    border: 1px solid #dee2e6;
+    border-radius: 6px;
+    background: white;
+    cursor: pointer;
+    font-size: 15px;
+    text-decoration: none;
+    color: inherit;
+    text-align: center;
+}
+
+.quick-navigation a:hover {
+    background: #f8f9fa;
+}
+.products-table-container {
+    overflow-x: auto;
+}
+
+.products-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.products-table th,
+.products-table td {
+    padding: 14px 12px;
+    text-align: left;
+    border-bottom: 1px solid #e5e7eb;
+}
+
+.products-table th {
+    font-size: 14px;
+    font-weight: 600;
+    color: #6c757d;
+    background: #f8f9fa;
+}
+
+.products-table td {
+    font-size: 14px;
+}
+
+.products-table tbody tr:hover {
+    background: #f8f9fa;
+}
+
+@media (max-width: 1100px) {
+    .dashboard-stats {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+@media (max-width: 700px) {
+    .dashboard {
+        padding: 16px;
+    }
+
+    .dashboard-stats {
+        grid-template-columns: 1fr;
+    }
+
+    .quick-navigation {
+        grid-template-columns: 1fr;
+    }
+}

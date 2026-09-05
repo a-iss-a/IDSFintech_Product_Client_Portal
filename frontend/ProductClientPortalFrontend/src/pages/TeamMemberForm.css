@@ -1,0 +1,98 @@
+.team-member-form-page {
+    padding: 30px;
+}
+
+.team-member-form-header {
+    margin-bottom: 25px;
+}
+
+.team-member-form-header h1 {
+    margin: 0;
+    font-size: 28px;
+}
+
+.team-member-form-header p {
+    margin: 6px 0 0;
+    color: #666;
+}
+
+.team-member-form {
+    max-width: 700px;
+    padding: 25px;
+    background: white;
+    border: 1px solid #e5e7eb;
+    border-radius: 8px;
+}
+
+.form-field {
+    display: flex;
+    flex-direction: column;
+    gap: 7px;
+    margin-bottom: 20px;
+}
+
+.form-field label {
+    font-size: 14px;
+    font-weight: 600;
+    color: #374151;
+}
+
+.form-field input,
+.form-field select {
+    height: 42px;
+    padding: 0 12px;
+    border: 1px solid #d1d5db;
+    border-radius: 6px;
+    background: white;
+    font-size: 14px;
+    outline: none;
+    box-sizing: border-box;
+}
+
+.form-field input:focus,
+.form-field select:focus {
+    border-color: #2563eb;
+}
+
+.team-member-form-actions {
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+    margin-top: 30px;
+    padding-top: 20px;
+    border-top: 1px solid #e5e7eb;
+}
+
+.cancel-form-button,
+.save-form-button {
+    padding: 10px 18px;
+    border-radius: 6px;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.cancel-form-button {
+    border: 1px solid #d1d5db;
+    background: white;
+    color: #374151;
+}
+
+.cancel-form-button:hover {
+    background: #f9fafb;
+}
+
+.save-form-button {
+    border: none;
+    background: #2563eb;
+    color: white;
+}
+
+.save-form-button:hover {
+    background: #1d4ed8;
+}
+
+.cancel-form-button:disabled,
+.save-form-button:disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+}

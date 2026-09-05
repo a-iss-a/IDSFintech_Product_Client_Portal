@@ -1,0 +1,36 @@
+.sidebar {
+    width: 240px;
+    min-height: calc(100vh - 64px);
+    background-color: #ffffff;
+    border-right: 1px solid #e5e7eb;
+    transition: width 0.2s ease;
+    overflow: hidden;
+}
+
+.sidebar.open {
+    width: 240px;
+}
+
+.sidebar.closed {
+    width: 0;
+    border-right: none;
+}
+
+.sidebar nav {
+    display: flex;
+    flex-direction: column;
+    padding: 16px 12px;
+    gap: 4px;
+}
+
+.sidebar a {
+    padding: 12px;
+    color: #374151;
+    text-decoration: none;
+    border-radius: 6px;
+    white-space: nowrap;
+}
+
+.sidebar a:hover {
+    background-color: #f3f4f6;
+}

@@ -1,0 +1,172 @@
+.header {
+    height: 72px;
+    padding: 0 24px;
+    background-color: #ffffff;
+    border-bottom: 1px solid #e5e7eb;
+}
+
+.header-container {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header-left {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+
+/* Menu */
+
+.menu-button {
+    width: 40px;
+    height: 40px;
+    padding: 0;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    border: none !important;
+    border-radius: 6px !important;
+
+    background-color: transparent !important;
+    color: #374151 !important;
+
+    font-size: 21px;
+    line-height: 1;
+
+    box-shadow: none !important;
+}
+
+.menu-button:hover {
+    background-color: #f3f4f6 !important;
+    color: #111827 !important;
+}
+
+.menu-button:focus,
+.menu-button:active {
+    background-color: #f3f4f6 !important;
+    color: #111827 !important;
+    box-shadow: none !important;
+}
+
+/* Logo */
+
+.header-logo {
+    width: 56px;
+    height: 56px;
+
+    object-fit: contain;
+    display: block;
+}
+
+/* Portal title */
+
+.header-brand {
+    margin: 0;
+
+    color: #1f2937;
+
+    font-size: 20px;
+    font-weight: 600;
+
+    text-decoration: none;
+}
+
+/* User section */
+
+.header-user {
+    display: flex;
+    align-items: center;
+    gap: 18px;
+}
+
+.header-username {
+    color: #374151;
+
+    font-size: 14px;
+    font-weight: 500;
+}
+
+/* Logout */
+
+.logout-button {
+    height: 38px;
+    padding: 0 16px;
+
+    border: 1px solid #d1d5db !important;
+    border-radius: 6px !important;
+
+    background-color: #ffffff !important;
+    color: #374151 !important;
+
+    font-size: 14px;
+    font-weight: 500;
+
+    box-shadow: none !important;
+}
+
+.logout-button:hover {
+    background-color: #f3f4f6 !important;
+    border-color: #cbd5e1 !important;
+    color: #111827 !important;
+}
+
+.logout-button:focus,
+.logout-button:active {
+    background-color: #f3f4f6 !important;
+    border-color: #cbd5e1 !important;
+    color: #111827 !important;
+    box-shadow: none !important;
+}
+
+/* Responsive */
+
+@media (max-width: 768px) {
+    .header {
+        padding: 0 16px;
+    }
+
+    .header-logo {
+        width: 48px;
+        height: 48px;
+    }
+
+    .header-brand {
+        font-size: 17px;
+    }
+
+    .header-username {
+        display: none;
+    }
+
+    .header-user {
+        gap: 10px;
+    }
+}
+
+@media (max-width: 480px) {
+    .header {
+        padding: 0 12px;
+    }
+
+    .header-left {
+        gap: 10px;
+    }
+
+    .header-logo {
+        width: 44px;
+        height: 44px;
+    }
+
+    .header-brand {
+        font-size: 15px;
+    }
+
+    .logout-button {
+        padding: 0 12px;
+    }
+}

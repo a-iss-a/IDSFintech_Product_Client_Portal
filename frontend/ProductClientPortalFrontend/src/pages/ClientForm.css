@@ -1,0 +1,141 @@
+.client-form-page {
+    padding: 30px;
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+.client-form-header {
+    margin-bottom: 25px;
+}
+
+.client-form-header h1 {
+    margin: 0 0 6px;
+    font-size: 28px;
+    color: #222;
+}
+
+.client-form-header p {
+    margin: 0;
+    color: #666;
+}
+
+.client-form {
+    background: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
+}
+
+.client-form-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 22px;
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+}
+
+.form-group-full {
+    grid-column: 1 / -1;
+}
+
+.form-group label {
+    margin-bottom: 7px;
+    font-size: 14px;
+    font-weight: 600;
+    color: #333;
+}
+
+.form-group input,
+.form-group select,
+.form-group textarea {
+    width: 100%;
+    padding: 11px 12px;
+    border: 1px solid #d5d5d5;
+    border-radius: 6px;
+    font-size: 14px;
+    box-sizing: border-box;
+    font-family: inherit;
+}
+
+.form-group textarea {
+    resize: vertical;
+    min-height: 120px;
+}
+
+.form-group input:focus,
+.form-group select:focus,
+.form-group textarea:focus {
+    outline: none;
+    border-color: #4a90e2;
+}
+
+.client-form-error {
+    margin-bottom: 20px;
+    padding: 12px 15px;
+    border-radius: 6px;
+    background: #fce8e8;
+    color: #b42318;
+    font-size: 14px;
+}
+
+.client-form-actions {
+    display: flex;
+    justify-content: flex-end;
+    gap: 12px;
+    margin-top: 30px;
+}
+
+.client-form-actions button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+.client-form-cancel {
+    background: #e9ecef;
+    color: #333;
+}
+
+.client-form-cancel:hover {
+    background: #dfe2e5;
+}
+
+.client-form-submit {
+    background: #2563eb;
+    color: white;
+}
+
+.client-form-submit:hover {
+    background: #1d4ed8;
+}
+
+@media (max-width: 700px) {
+    .client-form-page {
+        padding: 20px;
+    }
+
+    .client-form {
+        padding: 20px;
+    }
+
+    .client-form-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .form-group-full {
+        grid-column: auto;
+    }
+
+    .client-form-actions {
+        flex-direction: column-reverse;
+    }
+
+    .client-form-actions button {
+        width: 100%;
+    }
+}

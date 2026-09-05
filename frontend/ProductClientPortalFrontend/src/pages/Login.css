@@ -1,0 +1,177 @@
+.login-page {
+    min-height: 100vh;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    padding: 24px;
+
+    background-color: #f8fafc;
+}
+
+.login-card {
+    width: 100%;
+    max-width: 420px;
+
+    padding: 42px 40px;
+
+    background-color: #ffffff;
+
+    border: 1px solid #e5e7eb;
+    border-radius: 10px;
+
+    box-sizing: border-box;
+}
+
+/* Logo */
+
+.login-logo-container {
+    width: 110px;
+    height: 110px;
+
+    margin: 0 auto 20px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.login-logo {
+    width: 110px;
+    height: 110px;
+
+    object-fit: contain;
+    display: block;
+}
+
+/* Title */
+
+.login-title {
+    margin: 0;
+
+    color: #1f2937;
+
+    font-size: 27px;
+    font-weight: 600;
+
+    text-align: center;
+}
+
+.login-subtitle {
+    margin: 8px 0 30px;
+
+    color: #64748b;
+
+    font-size: 14px;
+    font-weight: 400;
+
+    text-align: center;
+}
+
+/* Form */
+
+.login-form {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.login-field {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.login-field label {
+    color: #374151;
+
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.login-field input {
+    width: 100%;
+    height: 44px;
+
+    padding: 0 12px;
+
+    border: 1px solid #d1d5db;
+    border-radius: 6px;
+
+    background-color: #ffffff;
+    color: #1f2937;
+
+    font-size: 14px;
+
+    outline: none;
+    box-sizing: border-box;
+
+    transition: border-color 0.15s ease;
+}
+
+.login-field input::placeholder {
+    color: #9ca3af;
+}
+
+.login-field input:focus {
+    border-color: #64748b;
+}
+
+/* Login button */
+
+.login-button {
+    width: 100%;
+    height: 44px;
+
+    margin-top: 6px;
+
+    border: none;
+    border-radius: 6px;
+
+    background-color: #1f2937;
+    color: #ffffff;
+
+    font-size: 14px;
+    font-weight: 500;
+
+    cursor: pointer;
+
+    box-shadow: none;
+
+    transition: background-color 0.15s ease;
+}
+
+.login-button:hover {
+    background-color: #374151;
+}
+
+.login-button:active {
+    background-color: #111827;
+}
+
+/* Responsive */
+
+@media (max-width: 480px) {
+    .login-page {
+        padding: 16px;
+    }
+
+    .login-card {
+        padding: 32px 22px;
+    }
+
+    .login-logo-container {
+        width: 90px;
+        height: 90px;
+    }
+
+    .login-logo {
+        width: 90px;
+        height: 90px;
+    }
+
+    .login-title {
+        font-size: 23px;
+    }
+}

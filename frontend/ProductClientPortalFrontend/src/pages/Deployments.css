@@ -1,0 +1,254 @@
+.deployments-page {
+    padding: 30px;
+}
+
+.deployments-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 25px;
+}
+
+.deployments-header h1 {
+    margin: 0;
+    color: #1e293b;
+    font-size: 28px;
+}
+
+.deployments-header p {
+    margin: 6px 0 0;
+    color: #64748b;
+    font-size: 14px;
+}
+
+.add-deployment-button {
+    padding: 11px 18px;
+    border: none;
+    border-radius: 6px;
+    background-color: #2563eb;
+    color: white;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.add-deployment-button:hover {
+    background-color: #1d4ed8;
+}
+
+.deployments-filters {
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr 1fr;
+    gap: 12px;
+    margin-bottom: 25px;
+}
+
+.deployments-filters input,
+.deployments-filters select {
+    padding: 11px 12px;
+    border: 1px solid #cbd5e1;
+    border-radius: 6px;
+    background-color: white;
+    color: #334155;
+    font-size: 14px;
+    outline: none;
+}
+
+.deployments-filters input:focus,
+.deployments-filters select:focus {
+    border-color: #2563eb;
+}
+
+.deployments-grid {
+    display: grid;
+    grid-template-columns: repeat(
+        auto-fill,
+        minmax(330px, 1fr)
+    );
+    gap: 20px;
+}
+
+.deployment-card {
+    padding: 22px;
+    border: 1px solid #e2e8f0;
+    border-radius: 8px;
+    background-color: white;
+}
+
+.deployment-card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 15px;
+    margin-bottom: 20px;
+}
+
+.deployment-card-header h2 {
+    margin: 0;
+    color: #1e293b;
+    font-size: 19px;
+}
+
+.deployment-product {
+    margin: 5px 0 0;
+    color: #64748b;
+    font-size: 14px;
+}
+
+.deployment-status {
+    padding: 5px 9px;
+    border-radius: 5px;
+    background-color: #eff6ff;
+    color: #2563eb;
+    font-size: 12px;
+    font-weight: 600;
+    white-space: nowrap;
+}
+
+.deployment-card-info {
+    margin-bottom: 18px;
+}
+
+.deployment-card-info p {
+    margin: 8px 0;
+    color: #475569;
+    font-size: 14px;
+}
+
+.deployment-card-info strong {
+    color: #334155;
+}
+
+.deployment-notes {
+    min-height: 45px;
+    margin: 0 0 20px;
+    color: #64748b;
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+.deployment-card-actions {
+    display: flex;
+    gap: 8px;
+}
+
+.deployment-card-actions button {
+    flex: 1;
+    padding: 9px 12px;
+    border: 1px solid #cbd5e1;
+    border-radius: 5px;
+    background-color: white;
+    color: #334155;
+    font-size: 13px;
+    cursor: pointer;
+}
+
+.deployment-card-actions button:hover {
+    background-color: #f8fafc;
+}
+
+.deployment-card-actions .delete-button {
+    border-color: #fecaca;
+    color: #dc2626;
+}
+
+.deployment-card-actions .delete-button:hover {
+    background-color: #fef2f2;
+}
+
+.empty-deployments {
+    padding: 45px 20px;
+    border: 1px dashed #cbd5e1;
+    border-radius: 8px;
+    color: #64748b;
+    text-align: center;
+    font-size: 14px;
+}
+
+.delete-popup {
+    position: fixed;
+    inset: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(15, 23, 42, 0.45);
+    z-index: 1000;
+}
+
+.delete-popup-content {
+    width: 400px;
+    max-width: calc(100% - 30px);
+    padding: 25px;
+    border-radius: 8px;
+    background-color: white;
+}
+
+.delete-popup-content h3 {
+    margin: 0 0 12px;
+    color: #1e293b;
+    font-size: 20px;
+}
+
+.delete-popup-content p {
+    margin: 0;
+    color: #64748b;
+    font-size: 14px;
+    line-height: 1.6;
+}
+
+.delete-popup-actions {
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+    margin-top: 25px;
+}
+
+.cancel-delete-button,
+.confirm-delete-button {
+    padding: 9px 16px;
+    border-radius: 5px;
+    font-size: 13px;
+    cursor: pointer;
+}
+
+.cancel-delete-button {
+    border: 1px solid #cbd5e1;
+    background-color: white;
+    color: #334155;
+}
+
+.confirm-delete-button {
+    border: none;
+    background-color: #dc2626;
+    color: white;
+}
+
+.confirm-delete-button:hover {
+    background-color: #b91c1c;
+}
+
+@media (max-width: 900px) {
+    .deployments-filters {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+@media (max-width: 600px) {
+    .deployments-page {
+        padding: 20px;
+    }
+
+    .deployments-header {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 15px;
+    }
+
+    .deployments-filters {
+        grid-template-columns: 1fr;
+    }
+
+    .deployments-grid {
+        grid-template-columns: 1fr;
+    }
+}

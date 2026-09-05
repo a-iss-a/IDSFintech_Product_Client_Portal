@@ -1,0 +1,210 @@
+.document-form-page {
+    padding: 30px;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.document-form-header {
+    margin-bottom: 25px;
+}
+
+.document-form-header h1 {
+    margin: 0 0 8px;
+    font-size: 28px;
+    color: #222;
+}
+
+.document-form-header p {
+    margin: 0;
+    color: #666;
+}
+
+.document-form {
+    background: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
+}
+
+.document-form .form-group {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+
+.document-form .form-group-full {
+    width: 100%;
+}
+
+.document-form label {
+    margin-bottom: 8px;
+    font-size: 14px;
+    font-weight: 600;
+    color: #333;
+}
+
+.document-form input,
+.document-form textarea {
+    width: 100%;
+    padding: 11px 12px;
+    border: 1px solid #d5d5d5;
+    border-radius: 6px;
+    font-size: 14px;
+    font-family: inherit;
+    box-sizing: border-box;
+}
+
+.document-form input:focus,
+.document-form textarea:focus {
+    outline: none;
+    border-color: #007bff;
+}
+
+.document-form textarea {
+    resize: vertical;
+}
+
+.document-form-error {
+    margin-bottom: 20px;
+    padding: 12px 15px;
+    border-radius: 6px;
+    background: #f8d7da;
+    color: #842029;
+    border: 1px solid #f5c2c7;
+}
+
+/* Upload control */
+
+.document-upload-input {
+    display: none;
+}
+
+.document-upload {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.document-upload-button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    width: fit-content;
+    padding: 11px 18px;
+    border: 1px dashed #007bff;
+    border-radius: 8px;
+    background: #f0f7ff;
+    color: #007bff;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.document-upload-button:hover {
+    background: #e2efff;
+    border-color: #0056b3;
+    box-shadow: 0 2px 8px rgba(0, 123, 255, 0.15);
+}
+
+.document-upload-icon {
+    display: inline-flex;
+    align-items: center;
+}
+
+.document-upload-info {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 10px 12px;
+    border: 1px solid #d5d5d5;
+    border-radius: 6px;
+    background: #f8f9fa;
+}
+
+.document-upload-file-icon {
+    display: inline-flex;
+    align-items: center;
+    color: #007bff;
+}
+
+.document-upload-name {
+    flex: 1;
+    min-width: 0;
+    font-size: 13px;
+    color: #333;
+    word-break: break-all;
+}
+
+.document-upload-remove {
+    padding: 6px 12px;
+    border: none;
+    border-radius: 6px;
+    background: #e9ecef;
+    color: #333;
+    font-size: 13px;
+    cursor: pointer;
+    white-space: nowrap;
+}
+
+.document-upload-remove:hover {
+    background: #dc3545;
+    color: white;
+}
+
+.document-upload-hint {
+    font-size: 12px;
+    color: #6c757d;
+}
+
+.document-form-actions {
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+    margin-top: 25px;
+}
+
+.document-form-actions button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 6px;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.document-form-cancel {
+    background: #e9ecef;
+    color: #333;
+}
+
+.document-form-cancel:hover {
+    background: #dfe2e5;
+}
+
+.document-form-submit {
+    background: #007bff;
+    color: white;
+}
+
+.document-form-submit:hover {
+    background: #0069d9;
+}
+
+@media (max-width: 768px) {
+    .document-form-page {
+        padding: 20px;
+    }
+
+    .document-form {
+        padding: 20px;
+    }
+
+    .document-form-actions {
+        flex-direction: column;
+    }
+
+    .document-form-actions button {
+        width: 100%;
+    }
+}

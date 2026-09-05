@@ -1,0 +1,254 @@
+.team-members-page {
+    padding: 30px;
+}
+
+.team-members-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 25px;
+}
+
+.team-members-header h1 {
+    margin: 0;
+    font-size: 28px;
+}
+
+.team-members-header p {
+    margin: 6px 0 0;
+    color: #666;
+}
+
+.add-team-member-button {
+    padding: 11px 18px;
+    border: none;
+    border-radius: 6px;
+    background: #2563eb;
+    color: white;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.add-team-member-button:hover {
+    background: #1d4ed8;
+}
+
+.team-members-filters {
+    display: flex;
+    gap: 20px;
+    align-items: flex-end;
+    margin-bottom: 25px;
+}
+
+.search-container {
+    flex: 1;
+}
+
+.filter-container {
+    width: 200px;
+}
+
+.search-container,
+.filter-container {
+    display: flex;
+    flex-direction: column;
+    gap: 7px;
+}
+
+.search-container label,
+.filter-container label {
+    font-size: 13px;
+    font-weight: 600;
+    color: #444;
+}
+
+.search-container input,
+.filter-container select {
+    height: 40px;
+    padding: 0 12px;
+    border: 1px solid #d1d5db;
+    border-radius: 6px;
+    background: white;
+    font-size: 14px;
+    outline: none;
+}
+
+.search-container input:focus,
+.filter-container select:focus {
+    border-color: #2563eb;
+}
+
+.team-members-table-container {
+    background: white;
+    border: 1px solid #e5e7eb;
+    border-radius: 8px;
+    overflow-x: auto;
+}
+
+.team-members-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.team-members-table th {
+    padding: 15px;
+    text-align: left;
+    background: #f8fafc;
+    border-bottom: 1px solid #e5e7eb;
+    font-size: 13px;
+    font-weight: 600;
+    color: #475569;
+}
+
+.team-members-table td {
+    padding: 15px;
+    border-bottom: 1px solid #e5e7eb;
+    font-size: 14px;
+    color: #374151;
+}
+
+.team-members-table tbody tr:last-child td {
+    border-bottom: none;
+}
+
+.member-name {
+    font-weight: 600;
+    color: #111827 !important;
+}
+
+.member-status {
+    display: inline-block;
+    padding: 5px 10px;
+    border-radius: 20px;
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.member-status.active {
+    background: #dcfce7;
+    color: #166534;
+}
+
+.member-status.inactive {
+    background: #fee2e2;
+    color: #991b1b;
+}
+
+.team-member-actions {
+    display: flex;
+    gap: 8px;
+}
+
+.edit-button,
+.delete-button {
+    padding: 7px 12px;
+    border-radius: 5px;
+    font-size: 13px;
+    cursor: pointer;
+}
+
+.edit-button {
+    border: 1px solid #2563eb;
+    background: white;
+    color: #2563eb;
+}
+
+.edit-button:hover {
+    background: #eff6ff;
+}
+
+.delete-button {
+    border: 1px solid #dc2626;
+    background: white;
+    color: #dc2626;
+}
+
+.delete-button:hover {
+    background: #fef2f2;
+}
+
+.empty-team-members {
+    padding: 40px !important;
+    text-align: center;
+    color: #6b7280 !important;
+}
+
+.delete-modal-overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.45);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+}
+
+.delete-modal {
+    width: 400px;
+    padding: 25px;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+}
+
+.delete-modal h2 {
+    margin-top: 0;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+.delete-modal p {
+    margin-bottom: 25px;
+    color: #555;
+}
+
+.delete-modal-actions {
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+}
+
+.cancel-delete-button,
+.confirm-delete-button {
+    padding: 9px 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+.cancel-delete-button {
+    border: 1px solid #d1d5db;
+    background: white;
+    color: #374151;
+}
+
+.confirm-delete-button {
+    border: none;
+    background: #dc2626;
+    color: white;
+}
+
+.confirm-delete-button:hover {
+    background: #b91c1c;
+}
+
+.view-button {
+    background-color: #eef4ff;
+    color: #16b219;
+    border: 1px solid #c7d7fe;
+    border-radius: 6px;
+    padding: 6px 13px;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 500;
+    transition: all 0.2s ease;
+}
+
+.view-button:hover {
+    background-color: #c7fed3;
+    color: #16b219;
+    border-color: #16b219;
+}
+
+
+
