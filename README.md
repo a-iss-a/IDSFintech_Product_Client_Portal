@@ -416,29 +416,6 @@ The main entities include:
 * Repositories
 * Documents
 
-The main relationships are:
-
-```text
-Product
-    |
-    +-- Modules
-    +-- Deployments
-    +-- Product Responsibilities
-    +-- Repositories
-    +-- Documents
-
-Client
-    |
-    +-- Deployments
-            |
-            +-- Environments
-
-Team Member
-    |
-    +-- Department
-    +-- Product Responsibilities
-```
-
 ## Running the Project
 
 ### Backend
