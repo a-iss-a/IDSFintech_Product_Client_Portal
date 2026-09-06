@@ -12,8 +12,13 @@ const AdminSidebar = ({ isOpen }: AdminSidebarProps) => {
             <nav>
                 <Link to="/admin/dashboard">Dashboard</Link>
                 <Link to="/admin/users">Users</Link>
-                <Link to="/admin/products">Products</Link>
                 <Link to="/clients">Clients</Link>
+                <Link to="/clients/new">Add New Client</Link>
+                <Link to="/products">Products</Link>
+                <Link to="/products/new">Add New Product</Link>
+                <Link to="/team-members">Team Members</Link>
+                <Link to="/deployments">Deployments</Link>
+                <Link to="/admin/departments">Departments</Link>
             </nav>
         </aside>
     );

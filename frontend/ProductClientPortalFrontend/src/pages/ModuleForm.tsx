@@ -3,7 +3,7 @@ import { useNavigate, useParams } from "react-router-dom";
 import "./ModuleForm.css";
 import {
     addModule,
-    getModulesByProduct,
+    getModule,
     updateModule,
 } from "../services/ModuleService";
 import { getProducts } from "../services/ProductService";
@@ -31,9 +31,9 @@ const ModuleForm = () => {
 
         const loadModule = async () => {
             try {
-                const module = await getModulesByProduct(Number(productId));
+                const module = await getModule(Number(id));
 
-                if (!module || module.id !== Number(id)) {
+                if (!module) {
                     setError("Module not found.");
                     return;
                 }

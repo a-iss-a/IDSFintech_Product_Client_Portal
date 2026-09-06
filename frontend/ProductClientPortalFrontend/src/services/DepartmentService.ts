@@ -13,3 +13,21 @@ export const getDepartment = async (
     return response.data.department;
 };
 
+export const addDepartment = async (
+    department: Department
+): Promise<void> => {
+    await api.post("/Department/Add", department);
+};
+
+export const updateDepartment = async (
+    id: number,
+    department: Department
+): Promise<void> => {
+    await api.put(`/Department/${id}`, department);
+};
+
+export const deleteDepartment = async (
+    id: number
+): Promise<void> => {
+    await api.delete(`/Department/${id}`);
+};

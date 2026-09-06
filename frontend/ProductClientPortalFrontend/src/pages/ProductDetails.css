@@ -346,8 +346,6 @@
     text-decoration: underline;
 }
 
-/* Delete confirmation popup (reuses Module pattern) */
-
 .delete-popup {
     position: fixed;
     top: 0;

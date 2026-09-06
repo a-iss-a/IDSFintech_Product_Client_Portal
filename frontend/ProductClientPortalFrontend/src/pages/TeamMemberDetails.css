@@ -275,10 +275,6 @@
     border-color: #dc2626;
 }
 
-/* ================================
-   Delete Confirmation Modal
-   ================================ */
-
 .delete-modal-overlay {
     position: fixed;
     inset: 0;

@@ -16,8 +16,6 @@
     color: #6c757d;
 }
 
-/* Filters */
-
 .products-filters {
     display: flex;
     gap: 12px;
@@ -46,8 +44,6 @@
     outline: none;
     border-color: #adb5bd;
 }
-
-/* Product cards */
 
 .products-grid {
     display: grid;

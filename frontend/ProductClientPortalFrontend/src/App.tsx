@@ -30,6 +30,10 @@ import DeploymentForm from "./pages/DeploymentForm";
 import DeploymentDetails from "./pages/DeploymentDetails";
 import DeploymentEnvironmentForm from "./pages/DeploymentEnvironmentForm";
 
+import UserManagement from "./pages/UserManagement";
+
+import Departments from "./pages/Departments";
+
 const App = () => {
     return (
         <BrowserRouter>
@@ -38,7 +42,6 @@ const App = () => {
 
                 <Route element={<MainLayout />}>
 
-                    {/* Dashboard */}
                     <Route
                         path="/dashboard"
                         element={
@@ -61,7 +64,7 @@ const App = () => {
                     <Route
                         path="/products"
                         element={
-                            <ProtectedRoute role="User">
+                            <ProtectedRoute>
                                 <Products />
                             </ProtectedRoute>
                         }
@@ -70,7 +73,7 @@ const App = () => {
                     <Route
                         path="/products/:id"
                         element={
-                            <ProtectedRoute role="User">
+                            <ProtectedRoute>
                                 <ProductDetails />
                             </ProtectedRoute>
                         }
@@ -79,7 +82,7 @@ const App = () => {
                     <Route
                         path="/products/new"
                         element={
-                            <ProtectedRoute role="User">
+                            <ProtectedRoute>
                                 <ProductForm />
                             </ProtectedRoute>
                         }
@@ -88,7 +91,7 @@ const App = () => {
                     <Route
                         path="/products/:id/edit"
                         element={
-                            <ProtectedRoute role="User">
+                            <ProtectedRoute>
                                 <ProductForm />
                             </ProtectedRoute>
                         }
@@ -98,7 +101,7 @@ const App = () => {
                     <Route
                         path="/products/:productId/modules/new"
                         element={
-                            <ProtectedRoute role="User">
+                            <ProtectedRoute>
                                 <ModuleForm />
                             </ProtectedRoute>
                         }
@@ -107,7 +110,7 @@ const App = () => {
                     <Route
                         path="/products/:productId/modules/:id/edit"
                         element={
-                            <ProtectedRoute role="User">
+                            <ProtectedRoute>
                                 <ModuleForm />
                             </ProtectedRoute>
                         }
@@ -117,7 +120,7 @@ const App = () => {
                     <Route
                         path="/products/:productId/repository/new"
                         element={
-                            <ProtectedRoute role="User">
+                            <ProtectedRoute>
                                 <RepositoryForm />
                             </ProtectedRoute>
                         }
@@ -126,7 +129,7 @@ const App = () => {
                     <Route
                         path="/products/:productId/repository/:id/edit"
                         element={
-                            <ProtectedRoute role="User">
+                            <ProtectedRoute>
                                 <RepositoryForm />
                             </ProtectedRoute>
                         }
@@ -136,7 +139,7 @@ const App = () => {
                     <Route
                         path="/products/:productId/documents/new"
                         element={
-                            <ProtectedRoute role="User">
+                            <ProtectedRoute>
                                 <DocumentForm />
                             </ProtectedRoute>
                         }
@@ -145,7 +148,7 @@ const App = () => {
                     <Route
                         path="/products/:productId/documents/:id/edit"
                         element={
-                            <ProtectedRoute role="User">
+                            <ProtectedRoute>
                                 <DocumentForm />
                             </ProtectedRoute>
                         }
@@ -191,7 +194,7 @@ const App = () => {
                     <Route
     path="/team-members"
     element={
-        <ProtectedRoute role="User">
+        <ProtectedRoute>
             <TeamMembers />
         </ProtectedRoute>
     }
@@ -200,7 +203,7 @@ const App = () => {
 <Route
     path="/team-members/new"
     element={
-        <ProtectedRoute role="User">
+        <ProtectedRoute>
             <TeamMemberForm />
         </ProtectedRoute>
     }
@@ -209,7 +212,7 @@ const App = () => {
 <Route
     path="/team-members/:id/edit"
     element={
-        <ProtectedRoute role="User">
+        <ProtectedRoute>
             <TeamMemberForm />
         </ProtectedRoute>
     }
@@ -218,7 +221,7 @@ const App = () => {
 <Route
     path="/team-members/:id"
     element={
-        <ProtectedRoute role="User">
+        <ProtectedRoute>
             <TeamMemberDetails />
         </ProtectedRoute>
     }
@@ -227,7 +230,7 @@ const App = () => {
 <Route
     path="/team-members/:id/responsibilities/new"
     element={
-        <ProtectedRoute role="User">
+        <ProtectedRoute>
             <ProductResponsibilityForm />
         </ProtectedRoute>
     }
@@ -236,7 +239,7 @@ const App = () => {
 <Route
     path="/team-members/:id/responsibilities/:responsibilityId/edit"
     element={
-        <ProtectedRoute role="User">
+        <ProtectedRoute>
             <ProductResponsibilityForm />
         </ProtectedRoute>
     }
@@ -244,32 +247,74 @@ const App = () => {
 
 <Route
     path="/deployments"
-    element={<Deployments />}
+    element={
+        <ProtectedRoute>
+            <Deployments />
+        </ProtectedRoute>
+    }
 />
 
 <Route
     path="/deployments/new"
-    element={<DeploymentForm />}
+    element={
+        <ProtectedRoute>
+            <DeploymentForm />
+        </ProtectedRoute>
+    }
 />
 
 <Route
     path="/deployments/:id/edit"
-    element={<DeploymentForm />}
+    element={
+        <ProtectedRoute>
+            <DeploymentForm />
+        </ProtectedRoute>
+    }
 />
 
 <Route
     path="/deployments/:id"
-    element={<DeploymentDetails />}
+    element={
+        <ProtectedRoute>
+            <DeploymentDetails />
+        </ProtectedRoute>
+    }
 />
 
 <Route
     path="/deployments/:id/environments/new"
-    element={<DeploymentEnvironmentForm />}
+    element={
+        <ProtectedRoute>
+            <DeploymentEnvironmentForm />
+        </ProtectedRoute>
+    }
 />
 
 <Route
     path="/deployments/:id/environments/:environmentId/edit"
-    element={<DeploymentEnvironmentForm />}
+    element={
+        <ProtectedRoute>
+            <DeploymentEnvironmentForm />
+        </ProtectedRoute>
+    }
+/>
+
+<Route
+    path="/admin/users"
+    element={
+        <ProtectedRoute role="Admin">
+            <UserManagement />
+        </ProtectedRoute>
+    }
+/>
+
+<Route
+    path="/admin/departments"
+    element={
+        <ProtectedRoute role="Admin">
+            <Departments />
+        </ProtectedRoute>
+    }
 />
                 </Route>
             </Routes>
